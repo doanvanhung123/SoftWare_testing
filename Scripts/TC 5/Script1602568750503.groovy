@@ -33,5 +33,13 @@ WebUI.click(findTestObject('Object Repository/Page_UP Portal  HoChiMinh Universi
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_Mt m_ctl00ContentPlaceHolder1ctl00ctl_4544f5'), 
     'twRtAqKpSMHH5KPOemkS1g==')
 
-WebUI.click(findTestObject('Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_S lng truy cp _ctl00ContentPlaceHolde_c71575'))
+WebUI.click(findTestObject('Page_UP Portal  HoChiMinh University of Pedagogy/input_S lng truy cp _ctl00ContentPlaceHolde_c71575'))
+
+WebUI.verifyElementText(findTestObject('Page_UP Portal  HoChiMinh University of Pedagogy/input_S lng truy cp _ctl00ContentPlaceHolde_c71575'), 
+    ' Make apoiment')
+
+WebUI.waitForElementPresent(findTestObject('Page_UP Portal  HoChiMinh University of Pedagogy/input_S lng truy cp _ctl00ContentPlaceHolde_c71575'), 
+    10)
+
+WebUI.closeBrowser()
 
