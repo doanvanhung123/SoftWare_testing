@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="lap 04" time="14.804" tests="1" failures="0" errors="0">
+   <testsuite name="lap 04" tests="1" failures="0" errors="0" time="14.804" timestamp="2020-10-13 14:19:12" hostname="Admin - 192.168.131.1" id="Test Suites/lap 04">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\SoftWare_testing\\Reports\\20201013_141905\\lap 04\\20201013_141905"/>
+         <property name="logFiles" value="F:\\SoftWare_testing\\Reports\\20201013_141905\\lap 04\\20201013_141905\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - 192.168.131.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.7.2.205"/>
+         <property name="browser" value="Chrome 86.0.4240.75"/>
+         <property name="hostAddress" value="192.168.131.1"/>
+         <property name="sessionId" value="e1d60f1e20dad3f7489fde4bb429c96d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC 06 profiles" time="7.925" classname="Test Cases/TC 06 profiles" status="PASSED">
+         <system-out><![CDATA[2020-10-13 14:19:12 - [TEST_CASE][PASSED] - Test Cases/TC 06 profiles: Test Cases/TC 06 profiles
+
+2020-10-13 14:19:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-10-13 14:19:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-10-13 14:19:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-10-13 14:19:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-10-13 14:19:18 - [TEST_STEP][PASSED] - navigateToUrl(URL): Navigate to 'http://google.com' successfully
+
+2020-10-13 14:19:20 - [MESSAGE][PASSED] - Navigate to 'http://google.com' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-10-13 14:19:12 - [TEST_SUITE][PASSED] - lap 04: Test Cases/TC 06 profiles]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

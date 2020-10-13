@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+lap 04,Chrome 86.0.4240.75,,,2020-10-13 14:19:12,2020-10-13 14:19:20,"8,249s",PASSED
+,,,,,,,
+Test Cases/TC 06 profiles,Chrome 86.0.4240.75,,,2020-10-13 14:19:12,2020-10-13 14:19:20,"7,925s",PASSED
+"openBrowser("""")",Chrome 86.0.4240.75,,,2020-10-13 14:19:12,2020-10-13 14:19:18,"5,469s",PASSED
+navigateToUrl(URL),Chrome 86.0.4240.75,,,2020-10-13 14:19:18,2020-10-13 14:19:20,"2,054s",PASSED

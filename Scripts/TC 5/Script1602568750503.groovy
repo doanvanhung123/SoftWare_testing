@@ -43,3 +43,5 @@ WebUI.waitForElementPresent(findTestObject('Page_UP Portal  HoChiMinh University
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+

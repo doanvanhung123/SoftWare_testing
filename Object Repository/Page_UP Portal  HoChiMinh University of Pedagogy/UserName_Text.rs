@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Tn ng nhp_ctl00ContentPlaceHolder1ctl_537cb7</name>
+   <name>UserName_Text</name>
    <tag></tag>
-   <elementGuidId>c7a18f1f-9828-43eb-bfdf-91d4918fe684</elementGuidId>
+   <elementGuidId>75d895fc-f77f-498b-8217-c0b4f60fd31f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
